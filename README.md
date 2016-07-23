@@ -1,3 +1,3 @@
-# Selectors-jQuery
+# Basic-jQuerySelectors-Practice
 Practice for basic jQuery selectors.
 
