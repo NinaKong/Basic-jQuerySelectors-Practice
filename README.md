@@ -10,7 +10,7 @@ Practice for basic jQuery selectors.
 
 #Examples
 
-$("#Content").css({"color": "#fff", "padding": "5em"}); 
-$(".fa-heart").css("color", "#de8396");
-$("span").css("font-size", "2.5em");
-$("span.fa-heart").css("padding-right", "0.5em");
+- $("#Content").css({"color": "#fff", "padding": "5em"}); 
+- $(".fa-heart").css("color", "#de8396");
+- $("span").css("font-size", "2.5em");
+- $("span.fa-heart").css("padding-right", "0.5em");
