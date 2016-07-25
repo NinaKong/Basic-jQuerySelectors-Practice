@@ -1,7 +1,7 @@
 # Basic-jQuerySelectors-Practice
 Practice for basic jQuery selectors.
 
-# Basic jQUery Slectors Including
+# Basic jQuery Selectors Including
 
 - Using ID set up CSS
 - Using Class set up CSS
